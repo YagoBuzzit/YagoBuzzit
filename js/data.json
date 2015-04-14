@@ -1,50 +1,26 @@
 [
   {
-    "name": "BatteryPl",
-    "file": "img/compass.gif",
-    "video_link": "http://www.youtube.com/embed/VfsFV7VGBzI",
+    "name": "Winter Days with Pasha Asinov",
+    "file": "img/Winter Days with Pasha Asinov.png",
+    "video_link": "https://player.vimeo.com/video/120838068",
     "desctiption": "Predator's Teenage Son"
   },
   {
-    "name": "compass",
-    "file": "img/17BatteryPl 232-png.jpg",
-    "video_link": "http://www.youtube.com/embed/yYJeItqxHok",
+    "name": "SkyDive The Ranch.png",
+    "file": "img/SkyDive The Ranch.png",
+    "video_link": "https://player.vimeo.com/video/35234437",
     "desctiption": "Predator's Teenage Son"
   },
   {
-    "name": "deadfishflow",
-    "file": "img/deadfishflow.png",
-    "video_link": "http://www.youtube.com/embed/V3eXOkVpEAo",
+    "name": "Boat Party NYC",
+    "file": "img/Boat Party NYC.png",
+    "video_link": "https://player.vimeo.com/video/50988467",
     "desctiption": "Predator's Teenage Son"
   },
   {
-    "name": "new victories",
-    "file": "img/new victories.jpg",
-    "video_link": "http://www.youtube.com/embed/VfsFV7VGBzI",
-    "desctiption": "Predator's Teenage Son"
-  },
-  {
-    "name": "BatteryPl",
-    "file": "img/compass.gif",
-    "video_link": "http://www.youtube.com/embed/VfsFV7VGBzI",
-    "desctiption": "Predator's Teenage Son"
-  },
-  {
-    "name": "compass",
-    "file": "img/17BatteryPl 232-png.jpg",
-    "video_link": "http://www.youtube.com/embed/yYJeItqxHok",
-    "desctiption": "Predator's Teenage Son"
-  },
-  {
-    "name": "deadfishflow",
-    "file": "img/deadfishflow.png",
-    "video_link": "http://www.youtube.com/embed/V3eXOkVpEAo",
-    "desctiption": "Predator's Teenage Son"
-  },
-  {
-    "name": "new victories",
-    "file": "img/new victories.jpg",
-    "video_link": "http://www.youtube.com/embed/VfsFV7VGBzI",
+    "name": "Gleb & Anton 2011",
+    "file": "img/Gleb & Anton 2011.png",
+    "video_link": "https://player.vimeo.com/video/29512007",
     "desctiption": "Predator's Teenage Son"
   }
 ]
